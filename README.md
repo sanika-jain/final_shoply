@@ -1,8 +1,6 @@
-# Final project of Honors Full Stack -1. 
+# Final project of Honors-Shoply. 
 Shopping app made from MERN Stack.
 # 
+Admin Credentials:
 #
- PS: Admin Credentials  
-#
-Email : admin@gmail.com
-Password : admin123
+Email : admin@gmail.com  Password : admin123
